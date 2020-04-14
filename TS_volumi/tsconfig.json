@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonJS",
+        "outDir": "../TS_volumi/out",
+        "sourceMap": true
+    }
+}
